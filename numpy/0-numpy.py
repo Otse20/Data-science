@@ -1,5 +1,6 @@
 import numpy as np # import numpy
 
-esther = np.array([4, 3, 2, 1])
+esther = np.array(2)
 
-print(esther)
+print(type(esther))
+

@@ -1,3 +1,3 @@
 git add .
-git commit -m "0-numpy file"
+git commit -m "1-numpy-dim"
 git push origin tutor
